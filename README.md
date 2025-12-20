@@ -60,6 +60,7 @@ El proyecto integra los contenidos de las cuatro unidades de la asignatura **Ló
 - **Unidad 4:** Estructuras de datos y funciones.
 
 ---
+📁 La documentación completa del proyecto se encuentra en la carpeta `/docs`.
 
 ## ▶️ Cómo ejecutar el programa
 
